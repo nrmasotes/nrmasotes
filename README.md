@@ -4,8 +4,8 @@
 </div>
 
 <div align="center"> 
- <h3> Currently investing in cybersecurity. </h3>
-  https://tryhackme.com/p/naath
+ <div> Currently investing in cybersecurity.</div>
+  <div> https://tryhackme.com/p/naath </div>
 </div>
 
 ## 🌐 Socials:
