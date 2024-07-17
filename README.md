@@ -5,6 +5,7 @@
 
 <div align="center"> 
  <h3> I spend most of the time honing my cybersecurity skills in TryHackMe. </h3>
+  https://tryhackme.com/p/naath
 </div>
 
 ## 🌐 Socials:
