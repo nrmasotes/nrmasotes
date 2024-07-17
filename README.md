@@ -1,7 +1,7 @@
 # 💫 About Me:
-I don't often code.
+I don't often code. I spend most of my time honing my cybersecurity skills in TryHackMe.
 <div align= "center">
-  <img height="80" src="https://tryhackme-badges.s3.amazonaws.com/naath.png" alt="TryHackMe">
+  <img height="150" src="https://tryhackme-badges.s3.amazonaws.com/naath.png" alt="TryHackMe">
 </div>
 
 ## 🌐 Socials:
