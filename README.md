@@ -1,7 +1,8 @@
 # 💫 About Me:
 I don't often code.
-<img src="https://tryhackme-badges.s3.amazonaws.com/naath.png" alt="TryHackMe">
-
+<div align= "center">
+  <img height="80" src="https://tryhackme-badges.s3.amazonaws.com/naath.png" alt="TryHackMe">
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nathanielmasotes/) 
