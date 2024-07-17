@@ -1,10 +1,10 @@
 # 💫 About Me:
-<div align="center"> 
-  I spend most of the time honing my cybersecurity skills in TryHackMe. 
-</div>
-
 <div align= "center">
   <img height="150" src="https://tryhackme-badges.s3.amazonaws.com/naath.png" alt="TryHackMe">
+</div>
+
+<div align="center"> 
+ <h3> I spend most of the time honing my cybersecurity skills in TryHackMe. </h3>
 </div>
 
 ## 🌐 Socials:
