@@ -1,6 +1,6 @@
 # 💫 About Me:
 <div align="center"> 
-  I don't often code. I spend most of my time honing my cybersecurity skills in TryHackMe. 
+  I spend most of the time honing my cybersecurity skills in TryHackMe. 
 </div>
 
 <div align= "center">
