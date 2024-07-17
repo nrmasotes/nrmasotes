@@ -4,7 +4,7 @@
 </div>
 
 <div align="center"> 
- <div> Currently investing in cybersecurity.</div>
+ <div> Committed and keen on learning cybersecurity.</div>
   <div> https://tryhackme.com/p/naath </div>
 </div>
 
