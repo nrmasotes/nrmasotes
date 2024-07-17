@@ -4,7 +4,7 @@
 </div>
 
 <div align="center"> 
- <h3> I spend most of the time honing my cybersecurity skills in TryHackMe. </h3>
+ <h3> Currently investing in cybersecurity. </h3>
   https://tryhackme.com/p/naath
 </div>
 
