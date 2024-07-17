@@ -1,4 +1,6 @@
 ## Hi there 👋
+<script src="https://tryhackme.com/badge/1958760"></script>
+
 
 <!--
 **nrmasotes/nrmasotes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
