@@ -4,7 +4,7 @@
 </div>
 
 <div align="center"> 
- <div> Deeply committed and keen on learning cybersecurity.</div>
+ <div> Committed and keen on understanding cybersecurity.</div>
   <div> https://tryhackme.com/p/naath </div>
 </div>
 
