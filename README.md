@@ -1,6 +1,6 @@
 # 💫 About Me:
 <div align= "center">
-  <img height="150" src="https://tryhackme-badges.s3.amazonaws.com/naath.png" alt="TryHackMe">
+  <img height="155" src="https://tryhackme-badges.s3.amazonaws.com/naath.png" alt="TryHackMe">
 </div>
 
 <div align="center"> 
